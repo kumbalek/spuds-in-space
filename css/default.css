@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: antiquewhite;
+}
+#preload {
+    background-color: antiquewhite;
+    width: 50%;
+    height: 35px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    box-shadow: 3px 3px 15px #888888;
+}
+#my1 {
+    background-color: antiquewhite;
+    display: none;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    box-shadow: 3px 3px 15px #888888;
+}

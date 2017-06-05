@@ -1,0 +1,11 @@
+{
+    "framerate": 24,
+    "images": ["data/img/potato.png"],
+    "frames": {"width":54, "height":72, "regX":0, "regY":0},
+    "animations": {
+        "right":[0,11],
+        "jump":[11,13],
+        "roll": [14,22],
+        "kick": [23,24]
+    }
+}
